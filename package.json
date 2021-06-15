@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-app-docker",
+  "version": "1.0.0",
+  "description": "Basic NodeJS app with docker and kubernetes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Qasim Abdullah <qasimabdullah404@gmail.com>",
+  "license": "MIT"
+}
